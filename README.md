@@ -13,6 +13,15 @@
 
 ### A Self-Hosted UPI Payment Gateway for Merchants
 
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/Aniketchavan7/YouPI-PG?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26)](https://github.com/Aniketchavan7/YouPI-PG/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-7aa2f7?style=for-the-badge&labelColor=1a1b26)](./LICENSE)
+
+> ⭐ **Zero-fee self-hosted UPI payment gateway. If you find this valuable, please give it a star!**
+
+</div>
+
 **Originally created by [Gaurav](https://github.com/gxurav1710). The project is now maintained by [Zenuxs](https://zenuxs.in).**
 **0% Gateway Fees • Direct-to-Bank Settlement • WhatsApp Pre-Checkout OTP • Bank SMS & Gmail Observers**
 
